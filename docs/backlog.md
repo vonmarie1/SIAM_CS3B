@@ -79,3 +79,30 @@ Acceptance Criteria:
  User can click “New Chat”
  User is re-added to queue
  Matching process restarts
+
+User Story 7
+
+As a user, I want a simple chat interface, so that I can easily use the app.
+
+Priority: Medium
+Story Points: 5
+
+Acceptance Criteria:
+
+ Chat UI is clean and readable
+ Messages are clearly separated
+ Input box is accessible
+ Buttons are visible and functional
+ 
+User Story 8
+
+As a user, I want my identity to remain anonymous, so that my privacy is protected.
+
+Priority: High
+Story Points: 5
+
+Acceptance Criteria:
+
+ No personal data is required
+ No usernames are displayed
+ Users are labeled generically (e.g., Stranger)
