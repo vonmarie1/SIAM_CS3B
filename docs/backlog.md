@@ -12,6 +12,20 @@ Acceptance Criteria:
  System searches for another available user
  User is notified when matched
 
+User Story 2
+
+As a user, I want to send messages, so that I can communicate with my chat partner.
+
+Priority: High
+Story Points: 5
+
+Acceptance Criteria:
+
+ User can type a message
+ Message is sent in real time
+ Chat partner receives the message instantly
+ Messages appear in chat window
+
 User Story 3
 
 As a user, I want to receive messages, so that I can read what my partner sends.
@@ -24,6 +38,8 @@ Acceptance Criteria:
  Incoming messages appear instantly
  Messages are displayed in correct order
  Messages are readable and formatted
+
+ 
 User Story 4
 
 As a user, I want to leave the chat, so that I can exit anytime.
