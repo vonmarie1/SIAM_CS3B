@@ -53,3 +53,29 @@ Acceptance Criteria:
  System disconnects user
  Chat session ends immediately
  User returns to home screen
+
+User Story 5
+
+As a user, I want to be notified when my partner disconnects, so that I know the chat has ended.
+
+Priority: Medium
+Story Points: 3
+
+Acceptance Criteria:
+
+ System detects disconnection
+ Notification is shown to user
+ Chat input is disabled after disconnect
+
+User Story 6
+
+As a user, I want to start a new chat after ending one, so that I can continue chatting with others.
+
+Priority: High
+Story Points: 3
+
+Acceptance Criteria:
+
+ User can click “New Chat”
+ User is re-added to queue
+ Matching process restarts
