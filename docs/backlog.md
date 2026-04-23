@@ -132,3 +132,5 @@ Acceptance Criteria:
  Matching occurs within a few seconds
  Queue updates dynamically
  User sees status while waiting
+
+ Added user online/offline status feature to chat system
