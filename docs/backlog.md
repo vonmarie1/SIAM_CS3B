@@ -106,3 +106,29 @@ Acceptance Criteria:
  No personal data is required
  No usernames are displayed
  Users are labeled generically (e.g., Stranger)
+
+User Story 9
+
+As a user, I want basic error handling, so that I know when something goes wrong.
+
+Priority: Medium
+Story Points: 3
+
+Acceptance Criteria:
+
+ Errors are displayed clearly
+ System does not crash on failure
+ User can retry actions
+ 
+User Story 10
+
+As a user, I want fast matching, so that I don’t wait too long for a chat.
+
+Priority: High
+Story Points: 5
+
+Acceptance Criteria:
+
+ Matching occurs within a few seconds
+ Queue updates dynamically
+ User sees status while waiting
